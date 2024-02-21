@@ -2,7 +2,7 @@
 - 👀 I’m interested in New tech
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on frontend role
-- 📫 How to reach me ...
+- 📫 How to reach me navyapri15@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Hypersomnia and neophyte
 
